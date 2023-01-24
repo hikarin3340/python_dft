@@ -63,7 +63,7 @@ def plot_csv(plotcsv_file):
 
 
 if __name__ == '__main__':
-    input_file = 'test2.csv'
+    input_file = '440.csv'
     output_file = 'wanwan.csv'
     
     # 1つのみを使う。
